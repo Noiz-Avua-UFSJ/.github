@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da **Equipe Noiz Avua**, representante da **Un
 ## 🛠 Quem Somos
 A Noiz Avua é composta por estudantes apaixonados por engenharia e aeronáutica. Nosso objetivo é projetar, construir e voar aeronaves radiocontroladas de alta performance para enfrentar os desafios propostos pela SAE BRASIL.
 
-* **Instituição:** UFSJ - Campus Santo Antônio
+* **Instituição:** UFSJ - Campus Alto Paraopeba
 * **Foco:** Engenharia Aeronáutica, Mecânica, Elétrica e afins.
 * **Nossa Missão:** Aplicar a teoria da sala de aula em projetos reais, otimizando peso, aerodinâmica e capacidade de carga.
 
